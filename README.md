@@ -1,6 +1,6 @@
-# DCS World A-29B Super Tucano
+# DCS World A-29B/C Super Tucano
 
-> Free, open-source **EFM A-29B Super Tucano** independent module for DCS World.
+> Free, open-source **EFM A-29B/C Super Tucano** independent module for DCS World.
 > The goal is to have the most modern version following USAF, NATO, and Brazilian standards.
 ---
 
@@ -21,7 +21,7 @@ Full documentation lives in [`Docs/`](Docs/README.md) (PT-BR primary, with Engli
 
 ## Overview
 
-This is a free, open-source **EFM A-29B independent module** for DCS World. By "independent" we mean that it does not require any other paid modules to work.
+This is a free, open-source **EFM A-29B/C independent module** for DCS World. By "independent" we mean that it does not require any other paid modules to work.
 
 The project started as an aid for the community to implement modern aircraft systems using EFM/SFM and has grown into a full standalone Super Tucano mod featuring HUD, dual CMFDs, UFCP, FLIR (Star Safire), laser-guided weapons, autopilot, EGI navigation, DTC for multiple theatres, and more.
 
@@ -50,7 +50,7 @@ The project started as an aid for the community to implement modern aircraft sys
 
 ### Compatibility
 
-| DCS Version | A-29B 0.7.0.2 |
+| DCS Version | A-29B/C 0.7.0.2 |
 |---|---|
 | 2.9.0.47168 and newer | ✅ Supported |
 | 2.8.x | ❌ Not supported |
@@ -652,7 +652,7 @@ The original 3D model is based on [Tim Conrad's A-29 FSX module](https://flyaway
 ### Added
 
 - Added 3D model for aircraft and cockpit based on [Tim Conrad's A-29 FSX module](https://flyawaysimulation.com/downloads/files/24093/fsx-tim-conrad-embraer-29b-super-tucano-updated/).
-- Refactor of lua files based on A-29B DCS Mod provided by Malamen, and several other DCS modules.
+- Refactor of lua files based on A-29B/C DCS Mod provided by Malamen, and several other DCS modules.
 - Added new cockpit instruments by Milaré.
 - Basic textures for new cockpit instruments.
 - Basic aircraft controls working - Aileron, Elevator, Throttle, Flaps, Gear, Brakes, Parking Brakes.
