@@ -1,7 +1,7 @@
 # DCS World A-29B Super Tucano
 
 > Free, open-source **EFM A-29B Super Tucano** independent module for DCS World.
-
+> The goal is to have the most modern version following USAF, NATO, and Brazilian standards.
 ---
 
 ## 📚 Documentation
