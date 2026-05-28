@@ -5,6 +5,8 @@ luac.out
 *.src.rock
 *.zip
 *.tar.gz
+# Required runtime texture pack (DCS mounts this archive)
+!Textures/A-29B.zip
 
 # Object files
 *.o
@@ -30,6 +32,9 @@ luac.out
 *.so
 *.so.*
 *.dylib
+# Required avionics binaries shipped with the mod
+!bin/avSimplest.dll
+!bin/avSimplestRadio.dll
 
 # Executables
 *.exe
